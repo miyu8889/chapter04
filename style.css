@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+  font-family:，YuGothic，"MS Pゴシック"，Meiryo;
+  font-size:16px;
+  background-image:url(../images/gold_back.jpg);
+  background-repeat:repeat-y;
+}
+
